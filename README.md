@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Subash Kumar 👋</h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/SubashKumar18/SubashKumar18/main/photo.jpeg" width="150" alt="Subash Kumar" />
+</p>
+
+<p align="center">
   Java Developer (Fresher) | B.Sc. Software Systems Graduate | React Developer
 </p>
 
@@ -77,6 +81,9 @@
   </a>
   <a href="mailto:subash18062006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/SubashKumar18/SubashKumar18/blob/main/Subash_Kumar_Java_Backend_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
 
