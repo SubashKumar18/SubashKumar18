@@ -57,7 +57,7 @@
 | Project | What it is |
 | ------- | ---------- |
 | [Employee Management System](https://github.com/SubashKumar18/employee-management-system) | Console app in Java with JDBC and MySQL. Full CRUD (add, view, update, delete) with a menu, OOP and exception handling. |
-| [Furniro](https://github.com/SubashKumar18/furniro) | E-commerce furniture website in React, React Router and Context API. Has Shop, Cart, Checkout, Favorites and Blog pages, with search, filters and pagination. Responsive and deployed on Vercel. |
+| [Furniro](https://github.com/SubashKumar18/furniro) · [🔗 Live Demo](https://furniro-phi-eight.vercel.app/) | E-commerce furniture website in React, React Router and Context API. Has Shop, Cart, Checkout, Favorites and Blog pages, with search, filters and pagination. Responsive and deployed on Vercel. |
 
 ---
 
