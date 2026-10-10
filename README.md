@@ -82,7 +82,7 @@
   <a href="mailto:subash18062006@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/SubashKumar18/SubashKumar18/blob/main/Subash_Kumar_Java_Backend_Resume.pdf">
+  <a href="https://github.com/SubashKumar18/SubashKumar18/blob/main/Subash_Kumar_Updated%20_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
